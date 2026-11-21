@@ -2,7 +2,7 @@
 
 **Course:** Object-Oriented Programming Using C++ (CIC-211), MAIT, Department of CSE
 **Option chosen:** Option 2 (ERL-HUB)
-**Author(s):** _<your name(s) and enrollment number(s)>_
+**Author(s):** _<Vanshika Sharma 33014802725, Hiya Sankhla 34114802725>_
 
 A modular standard C++ (C++11-compliant, also builds as C++14/17) simulation of a relief hub that
 stocks supplies in depots, loads them onto heterogeneous vehicles (trucks, helicopters, boats and
