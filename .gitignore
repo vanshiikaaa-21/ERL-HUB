@@ -1,0 +1,4 @@
+build/
+erl_hub
+*.bin
+*.tmp
